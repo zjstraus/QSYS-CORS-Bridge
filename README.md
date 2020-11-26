@@ -27,7 +27,7 @@ with the `address` flag to specify the target Q-SYS Core address. The internal H
 ```
 
 ## /designData.json Contents
-```
+```json5
 {
 	"design": {
 		"Snapshots": [
@@ -55,7 +55,7 @@ with the `address` flag to specify the target Q-SYS Core address. The internal H
 				"MinimumValue": "-100",
 				"MaximumValue": "10"
 			},
-            ... more ...
+            //... more ...
 		],
 		// File name of the running Design
 		"DesignName": "Apartment Core",
