@@ -1,0 +1,4 @@
+assets/*
+!assets/.placeholder_for_git
+
+.idea
